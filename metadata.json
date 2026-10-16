@@ -1,0 +1,7 @@
+{
+  "name": "The Curse of the Pharaoh",
+  "description": "A playable 3D first-person survival horror experience set within an ancient Egyptian tomb. Navigate atmospheric corridors, manage your flashlight, and uncover ancient relics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
